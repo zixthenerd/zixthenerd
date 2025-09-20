@@ -6,6 +6,6 @@ you can find more at:
 [![My Website](https://img.shields.io/badge/MY_WEBSITE-FF69B4?style=for-the-badge&logo=diaspora&logoColor=white)](https://zixthenerd.github.io/ZixTheNerdWebsite/)
 
 
-[![Support me on Patreon](https://img.shields.io/badge/Patreon-Support%20Me-FF424D?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/posts/139345926?pr=true&cr=true&forSale=true)
+[![Support me on Patreon](https://img.shields.io/badge/MYt%20PATREON-FF424D?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/posts/139345926?pr=true&cr=true&forSale=true)
 
 
