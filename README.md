@@ -2,3 +2,4 @@
 
 I am currently coding: a batch file os (ik i can't code any other coding language)
 you can find more at: [My Dumb Website](https://zixthenerd.github.io/ZixTheNerdWebsite/)
+you can also donate at [My Pateron](https://www.patreon.com/posts/139345926?pr=true&cr=true&forSale=true)
